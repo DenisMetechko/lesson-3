@@ -1,0 +1,36 @@
+.about {
+}
+.about-row {
+}
+.about-card {
+  width: 300px;
+  border: 1px solid rgb(90, 89, 89);
+  border-radius: 10px;
+}
+.about-card-content {
+  padding: 20px;
+}
+.about-card-img {
+  border: 1px solid rgb(90, 89, 89);
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin: 0 auto 20px;
+}
+.about-card-img img {
+  margin: auto;
+  display: block;
+  margin-top: 33px;
+}
+.about-card-title {
+  margin-bottom: 15px;
+  text-align: right;
+}
+.about-card-text {
+}
+.about-card-text p {
+  text-align: right;
+}
+#about-title {
+  margin-bottom: 40px;
+}
